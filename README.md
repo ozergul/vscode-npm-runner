@@ -6,7 +6,7 @@ Run/stop NPM commands inside explorer view.
 
 - Works with monorepo projects
 
-![Demo Image](/images/preview.png)
+![Demo Image](https://raw.githubusercontent.com/ozergul/vscode-npm-runner/main/images/preview.png)
 
 ...
 
