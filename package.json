@@ -2,9 +2,9 @@
   "name": "vscode-npm-runner",
   "displayName": "Npm Runner",
   "description": "Run/stop NPM tasks in the explorer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Other"
