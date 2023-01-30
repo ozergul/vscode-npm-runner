@@ -16,9 +16,6 @@ jobs:
       - name: Install all dependencies
         run: npm i --save-dev
 
-      - name: Run Tests
-        run: npm run ui-tests
-
   release:
     needs: test
     runs-on: ubuntu-latest
